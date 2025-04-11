@@ -13,4 +13,6 @@ FitTailor is a smart workout planner designed to help beginners athletes and ent
 
 Comming soon 👀 www.FitTailor.ia
 
+# 📅 Ready to Train?
 ![image](https://github.com/user-attachments/assets/3cf12469-c549-4d40-9de0-9aa5d5e203a8)
+
