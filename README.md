@@ -11,8 +11,6 @@ FitTailor is a smart workout planner designed to help beginners athletes and ent
 - 📅 **Structured Training Calendar** – Get a clear, day-by-day workout schedule.
 - 🎯 **Goal-Oriented Plans** – Tailored to your competition date and performance goals.
 
-Comming soon 👀 www.FitTailor.ia
-
 # 📅 Ready to Train?
-![image](https://github.com/user-attachments/assets/3cf12469-c549-4d40-9de0-9aa5d5e203a8)
+https://github.com/user-attachments/assets/273c7d7e-5396-4ce2-9427-74aed3236b82
 
